@@ -1,8 +1,40 @@
-# React + Vite
+# 🍽️ SnapEats
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SnapEats is a responsive food ordering web application built with **React JS**, **Tailwind CSS** and **Vite**. It offers a seamless experience for users to browse, filter, and order their favorite meals while tracking costs efficiently.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🍽️ **Crafted** with  **React JS** and **Tailwind CSS** for a modern UI.
+
+- 🛠️ Utilizes **Redux Toolkit** for efficient state management.
+
+- 💵 Empowers users to effortlessly track the **total cost** of their selected items.
+
+- **User-Friendly Features**:
+  - 🔍 **Filter** food items based on category
+
+  - 🛒 **Cart Management** to manage selected items smoothly.
+
+  - 🔎 **Search Functionality** to quickly find desired food items.
+
+
+## 🌐 Live Demo
+Check out the live demo of SnapEats [here](https://your-live-demo-link.com) 🔗.
+
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
+
+2. Install dependencies:
+    ```bash
+    npm install
+
+
+3. Run the app:
+    ```bash
+    npm run dev    
